@@ -22,7 +22,7 @@
          
       },
       "API_HASH": {
-        "description": "Telegram app hash;leave as it is,
+        "description": "auto fille",
          "value": "f4514758233067697ceb2f6aa80f276f",
         "required": true
       },
