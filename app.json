@@ -1,6 +1,6 @@
 {
-    "name": "codefru music",
-    "description": "A Telegram user bot for music vc play in eaiser way",
+    "name": "codesfru music",
+    "description": "A Telegram Music user bot by codesfru",
     "logo": "https://telegra.ph/file/be378c6e56d709be819ba.jpg",
     "stack": "container",
     "keywords": [
@@ -16,18 +16,15 @@
     ],
     "env": {
       "API_ID": {
-        "description": "Telegram app id; leave as it is",
-        "value": "11341554",
+        "description": "Telegram app id, get it from https://my.telegram.org/apps",
         "required": true
-         
       },
       "API_HASH": {
-        "description": "auto fille",
-         "value": "f4514758233067697ceb2f6aa80f276f",
+        "description": "Telegram app hash, get it from https://my.telegram.org/apps",
         "required": true
       },
       "SESSION": {
-        "description": "Pyrogram session string, get it from https://replit.com/@codesfru/genStr#main.py or running @stringfrubot in telegram",
+        "description": "Pyrogram session string, get it from https://replit.com/@AsmSafone/genStr",
         "required": true
       },
       "SUDOERS": {
