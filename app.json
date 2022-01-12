@@ -1,7 +1,7 @@
 {
-    "name": "Music Player",
-    "description": "A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls",
-    "logo": "https://github.com/AsmSafone/MusicPlayer/raw/main/theme/logo.png",
+    "name": "codefru music",
+    "description": "A Telegram user bot for music vc play in eaiser way",
+    "logo": "https://telegra.ph/file/be378c6e56d709be819ba.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
@@ -16,15 +16,18 @@
     ],
     "env": {
       "API_ID": {
-        "description": "Telegram app id, get it from https://my.telegram.org/apps",
+        "description": "Telegram app id; leave as it is",
+        "value": "11341554",
         "required": true
+         
       },
       "API_HASH": {
-        "description": "Telegram app hash, get it from https://my.telegram.org/apps",
+        "description": "Telegram app hash, leave as it is,
+         "value": "f4514758233067697ceb2f6aa80f276f",
         "required": true
       },
       "SESSION": {
-        "description": "Pyrogram session string, get it from https://replit.com/@AsmSafone/genStr",
+        "description": "Pyrogram session string, get it from https://replit.com/@codesfru/genStr#main.py or running @stringfrubot in telegram",
         "required": true
       },
       "SUDOERS": {
