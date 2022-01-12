@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/maskedcoder7"> <img src="https://telegra.ph/file/be378c6e56d709be819ba.jpg" width="300"></a></p> 
+<p align="center"><a href="https://t.me/maskedcoder7"> <img src="https://telegra.ph/file/be378c6e56d709be819ba.jpg" width="700"></a></p> 
 
 
  
