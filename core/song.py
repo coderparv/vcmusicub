@@ -1,6 +1,6 @@
 """
-Music Player, Telegram Voice Chat Bot
-Copyright (c) 2021  Asm Safone <https://github.com/AsmSafone>
+vmusicub, Telegram Voice Chat Bot
+Copyright (c) 2022  codesfru <https://github.com/codesfru/vcmusicub>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
@@ -42,7 +42,7 @@ class Song:
         elif isinstance(link, dict):
             self.title: str = "Live Stream"
             self.duration: str = None
-            self.thumb: str = "https://telegra.ph/file/820cac7cb7b1a025542e2.jpg"
+            self.thumb: str = "https://telegra.ph/file/f423a61c3dae4923b1f27.jpg"
             self.remote_url: str = link["url"]
             self.yt_url: str = link["url"]
             self.headers: dict = None
